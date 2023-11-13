@@ -1,0 +1,47 @@
+General Snowflake Knowledge:
+What is Snowflake and how does it differ from traditional data warehousing solutions?
+
+Explain the architecture of Snowflake.
+
+What are the key features of Snowflake that make it suitable for cloud-based data warehousing?
+
+SQL Queries:
+Write a SQL query to retrieve all columns from a specific table.
+
+How do you perform a JOIN operation in Snowflake? Can you provide an example?
+
+Explain the differences between a View and a Table in Snowflake.
+
+What is the significance of a clustering key in Snowflake?
+
+Performance Optimization:
+How would you optimize a query in Snowflake for better performance?
+
+Explain how automatic clustering works in Snowflake and its impact on query performance.
+
+Security and Access Control:
+How do you manage access control in Snowflake?
+
+Explain the concept of Snowflake roles and how they are used.
+
+Data Loading and Unloading:
+What options are available for loading data into Snowflake?
+
+How would you export data from Snowflake to an external file or storage system?
+
+Warehousing and Scaling:
+Describe the process of scaling compute resources in Snowflake.
+
+How does Snowflake handle concurrency and what are some best practices for optimizing for concurrent workloads?
+
+Administration:
+What are some common tasks performed by Snowflake administrators?
+
+Explain how backups and restores are handled in Snowflake.
+
+What is Time Travel in Snowflake, and how is it different from Fail-Safe?
+
+Advanced Features:
+What is the role of a Materialized View in Snowflake?
+
+Explain the use of Snowpipe in Snowflake data loading.
